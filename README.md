@@ -1,4 +1,4 @@
-- 👋 Heey I’m mizu -=-=-
+- Heey I’m mizu -=-=-
 
 <!---
 mizibun/mizibun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
